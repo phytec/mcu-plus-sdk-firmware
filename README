@@ -5,6 +5,8 @@ These examples do a heartbeat blink on the MCU LED.
 Supported products:
 - AM62x
 - AM62Ax
+- AM62Px
 - AM64x
+- AM67x
 
 For more information see https://docs.phytec.com/
